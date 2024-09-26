@@ -1,0 +1,1 @@
+I'm first line in test3.txt
